@@ -11,11 +11,23 @@ userName = str(input("What is your name?"))
 
 if userName = "Oscar" or "Chuck"
   print("You are Oscar")
-else :
+password = input("Enter you're password>")
+if password == "1234" :
+  "Yes, that is corect. Welcome aboard"
+else
+  print("Nope, wrong password")
+elif :
   print("You are Chuck!")
+  password = input("Enter you're password>")
+  if password == "littleLamb24"
+  input("Yes, that is corect. Welcome aboard")
+else
+  print("Nope, wrong password")
+else
+  print(f"Unknown user!")
 
 # --- Add three numbers
-x = int(4)
+x = int("4")
 numTwo = int(10)
 ThirdNumber = 7.5
 
